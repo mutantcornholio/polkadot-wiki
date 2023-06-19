@@ -127,7 +127,9 @@ Polkadot's testnet is called [Westend](../maintain/maintain-networks.md#westend-
 you can obtain its native tokens (called Westies!) by posting `!drip <WESTEND_ADDRESS>` in the
 Matrix chatroom [#westend_faucet:matrix.org](https://matrix.to/#/#westend_faucet:matrix.org). Your
 account will be credited with 1 WND by default. You can also specify to get more tokens by
-`!drip <WESTEND_ADDRESS> X`, where X is the number of tokens.
+`!drip <WESTEND_ADDRESS> X`, where X is the number of tokens.  
+
+Another way is to use our web-based [Westend faucet](https://paritytech.github.io/polkadot-testnet-faucet/westend).
 
 You can also earn WNDs as rewards by [becoming a validator](learn-validator.md) on Westend network.
 Watch the video below on how to get started on Westend.
@@ -154,6 +156,13 @@ on its [dedicated wiki section](../build/build-parachains.md##testing-a-parachai
 
 Wococo is a bridge testnet. General users can obtain WOOK by posting `!drip <WOCOCO_ADDRESS>` in the
 Matrix chatroom [#wococo-faucet:matrix.org](https://matrix.to/#/#wococo-faucet:matrix.org).
+
+### Faucets support
+
+If you require help with using faucets, or wish to report an issue, there is a support chat
+[#faucets-support:matrix.org](https://matrix.to/#/#faucets-support:matrix.org), or you can [create an
+issue](https://github.com/paritytech/polkadot-testnet-faucet/issues/new/choose) directly in the
+faucets repo
 
 ## Kusama Tokens
 
